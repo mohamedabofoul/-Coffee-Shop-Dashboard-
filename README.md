@@ -30,5 +30,5 @@ This is my first data analysis project where I analyzed a coffee shop dataset to
 - Data Cleaning  
 - Data Visualization  
 
-## 📷 Dashboard Preview
+
 (حط هنا صورة للداشبورد)
